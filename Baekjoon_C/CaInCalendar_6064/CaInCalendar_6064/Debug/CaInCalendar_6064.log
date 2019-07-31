@@ -1,0 +1,14 @@
+﻿  source.cpp
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(28): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(28): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(34): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(34): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(36): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(36): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(38): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(38): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(40): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(40): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\caincalendar_6064\caincalendar_6064\source.cpp(26): warning C4101: 'repeat' :참조되지 않은 지역 변수입니다.
+  CaInCalendar_6064.vcxproj -> D:\visual studio 2015\Baekjoons\CaInCalendar_6064\Debug\CaInCalendar_6064.exe
+  CaInCalendar_6064.vcxproj -> D:\visual studio 2015\Baekjoons\CaInCalendar_6064\Debug\CaInCalendar_6064.pdb (Full PDB)

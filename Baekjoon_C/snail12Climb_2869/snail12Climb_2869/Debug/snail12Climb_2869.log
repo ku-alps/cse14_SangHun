@@ -1,0 +1,10 @@
+﻿  source.cpp
+d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(8): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(8): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(10): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(10): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(12): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(12): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+d:\visual studio 2015\baekjoons\snail12climb_2869\snail12climb_2869\source.cpp(6): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+  snail12Climb_2869.vcxproj -> D:\visual studio 2015\Baekjoons\snail12Climb_2869\Debug\snail12Climb_2869.exe
+  snail12Climb_2869.vcxproj -> D:\visual studio 2015\Baekjoons\snail12Climb_2869\Debug\snail12Climb_2869.pdb (Full PDB)

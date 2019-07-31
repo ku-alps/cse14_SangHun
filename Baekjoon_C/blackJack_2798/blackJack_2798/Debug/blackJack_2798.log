@@ -1,0 +1,4 @@
+﻿  source.cpp
+d:\visual studio 2015\baekjoons\blackjack_2798\blackjack_2798\source.cpp(6): warning C4101: 'cardNum' :참조되지 않은 지역 변수입니다.
+  blackJack_2798.vcxproj -> D:\visual studio 2015\Baekjoons\blackJack_2798\Debug\blackJack_2798.exe
+  blackJack_2798.vcxproj -> D:\visual studio 2015\Baekjoons\blackJack_2798\Debug\blackJack_2798.pdb (Full PDB)
